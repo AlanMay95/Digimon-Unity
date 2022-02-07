@@ -1,0 +1,912 @@
+fileFormatVersion: 2
+guid: 6b7f5c55d5e0e4a418a9a247de4910e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2664470236970419658
+    second: Agumon
+  - first:
+      213: 1459325418339993280
+    second: Betamon
+  - first:
+      213: 5777292000353190009
+    second: Gabumon
+  - first:
+      213: 1308381552573942896
+    second: Elecmon
+  - first:
+      213: -6571764790219089991
+    second: Patamon
+  - first:
+      213: -2982411871588390777
+    second: Kunemon
+  - first:
+      213: 7656015505471328614
+    second: Gotsumon
+  - first:
+      213: -2071227621104098824
+    second: Tentomon
+  - first:
+      213: 4028220358461094350
+    second: Gizamon
+  - first:
+      213: -6135370609212347036
+    second: Gazimon
+  - first:
+      213: 6826317671994420383
+    second: Palmon
+  - first:
+      213: 3997419078745818081
+    second: Biyomon
+  - first:
+      213: -2212197792923958654
+    second: Otamamon
+  - first:
+      213: 3525878022916713422
+    second: Gomamon
+  - first:
+      213: 848295144811558126
+    second: Crabmon
+  - first:
+      213: 5060721402443642378
+    second: Syakomon
+  - first:
+      213: 675302814895699450
+    second: Tapirmon
+  - first:
+      213: -5476242379490376977
+    second: Candlemon
+  - first:
+      213: -3917505959204827701
+    second: Demi Devimon
+  - first:
+      213: 6066598159507926866
+    second: Floramon
+  - first:
+      213: 3375884592247359001
+    second: Mushroomon
+  - first:
+      213: -7380568227317446056
+    second: Toy Agumon
+  - first:
+      213: 3948442864921362914
+    second: Kokuwamon
+  - first:
+      213: -782296110787722660
+    second: Hagurumon
+  - first:
+      213: 808312396999858420
+    second: Armadillomon
+  - first:
+      213: -2621347550808269500
+    second: Hawkmon
+  - first:
+      213: -3163080306720476597
+    second: Veemon
+  - first:
+      213: -8125547899452102606
+    second: Salamon
+  - first:
+      213: -8786411381490453271
+    second: Goblimon
+  - first:
+      213: 7843371553109144479
+    second: Penguinmon
+  - first:
+      213: 2663512337038097984
+    second: Wormmon
+  - first:
+      213: -1868902449996240686
+    second: Terriermon
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 239, y: 0, z: 299, w: 107}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Agumon
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 502
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5093540991af420800000000000000
+      internalID: 2664470236970419658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betamon
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 499
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c68ad37cb0904410800000000000000
+      internalID: 1459325418339993280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gabumon
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 504
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97002c407701d2050800000000000000
+      internalID: 5777292000353190009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elecmon
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 501
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c08d7071e482210800000000000000
+      internalID: 1308381552573942896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Patamon
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 501
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b75293fdb66cc4a0800000000000000
+      internalID: -6571764790219089991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunemon
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 501
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788e01c44385c96d0800000000000000
+      internalID: -2982411871588390777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gotsumon
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 399
+        width: 82
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6615086f981af3a60800000000000000
+      internalID: 7656015505471328614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentomon
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 400
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1ec13d3758143e0800000000000000
+      internalID: -2071227621104098824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizamon
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 398
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9f117d21d17e730800000000000000
+      internalID: 4028220358461094350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gazimon
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 404
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46da68000f8cadaa0800000000000000
+      internalID: -6135370609212347036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palmon
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 402
+        width: 99
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ce23b51c3fbbe50800000000000000
+      internalID: 6826317671994420383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Biyomon
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 404
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3830f097fa97730800000000000000
+      internalID: 3997419078745818081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Otamamon
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 308
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2824ddbf3d1bc41e0800000000000000
+      internalID: -2212197792923958654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gomamon
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 307
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbae45816f6ee030800000000000000
+      internalID: 3525878022916713422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabmon
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 304
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee47e2390ffb5cb00800000000000000
+      internalID: 848295144811558126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Syakomon
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 311
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06bedb7d4b4b3640800000000000000
+      internalID: 5060721402443642378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tapirmon
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 308
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5fdad05582f5900800000000000000
+      internalID: 675302814895699450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candlemon
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 308
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2498af19a7004b0800000000000000
+      internalID: -5476242379490376977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi Devimon
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 214
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdce10061932a9c0800000000000000
+      internalID: -3917505959204827701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floramon
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 211
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f228442e2e03450800000000000000
+      internalID: 6066598159507926866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroomon
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 212
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9164e93862d89de20800000000000000
+      internalID: 3375884592247359001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toy Agumon
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 208
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a853a1d44f29990800000000000000
+      internalID: -7380568227317446056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kokuwamon
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 221
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1409baddfabc630800000000000000
+      internalID: 3948442864921362914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hagurumon
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 224
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52045ff4d9b425f0800000000000000
+      internalID: -782296110787722660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadillomon
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 121
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f898baa7d3b73b00800000000000000
+      internalID: 808312396999858420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hawkmon
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 120
+        width: 94
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d9b318a4a1f9bd0800000000000000
+      internalID: -2621347550808269500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veemon
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 121
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4274e1483b7a14d0800000000000000
+      internalID: -3163080306720476597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salamon
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 118
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2386cb78c314c3f80800000000000000
+      internalID: -8125547899452102606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblimon
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 117
+        width: 78
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4ffc3a665601680800000000000000
+      internalID: -8786411381490453271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguinmon
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 121
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9379702fd049dc60800000000000000
+      internalID: 7843371553109144479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wormmon
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 22
+        width: 93
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04eb600db52b6f420800000000000000
+      internalID: 2663512337038097984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terriermon
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 23
+        width: 89
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8ed14af135016e0800000000000000
+      internalID: -1868902449996240686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
