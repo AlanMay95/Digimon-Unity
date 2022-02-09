@@ -20,7 +20,7 @@ public class DigimonBuilder
             (new Digimon("Pururumon",Resources.Load<Sprite>("10_Pururumon"), 0, 0, 0, 0, 0, "na", "na", "na")),
             (new Digimon("Zerimon",Resources.Load<Sprite>("11_Zerimon"), 0, 0, 0, 0, 0, "na", "na", "na")),
             (new Digimon("Tsubumon",Resources.Load<Sprite>("12_Tsubumon"), 0, 0, 0, 0, 0, "na", "na", "na")),
-            (new Digimon("Yukimi Botamon",Resources.Load<Sprite>("13_Yukimi Botamon"), 0, 0, 0, 0, 0, "na", "na", "na")),
+            (new Digimon("Yukimi Botamon",Resources.Load<Sprite>("13_Yukimi_Botamon"), 0, 0, 0, 0, 0, "na", "na", "na")),
             (new Digimon("Yuramon",Resources.Load<Sprite>("14_Yuramon"), 0, 0, 0, 0, 0, "na", "na", "na")),
             (new Digimon("Zurumon",Resources.Load<Sprite>("15_Zurumon"), 0, 0, 0, 0, 0, "na", "na", "na")),
             (new Digimon("Koromon",Resources.Load<Sprite>("16_Koromon"), 1, 10, 10, 10, 10, "Botamon", "na", "na")),
