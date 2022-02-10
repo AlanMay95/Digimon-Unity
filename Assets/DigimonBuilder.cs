@@ -33,7 +33,7 @@ public class DigimonBuilder
             (new Digimon("DemiMeramon",Resources.Load<Sprite>("23_Demimeramon"), 1, 10, 10, 10, 10, "Mokumon", "na", "na")),
             (new Digimon("Yokomon",Resources.Load<Sprite>("24_Yokomon"), 1, 10, 10, 10, 10, "Nyokimon", "na", "na")),
             (new Digimon("Kapurimon",Resources.Load<Sprite>("25_Kapurimon"), 1, 10, 10, 10, 10, "Choromon", "na", "na")),
-            (new Digimon("Nyaromon",Resources.Load<Sprite>("26_Nyaromon"), 1, 10, 10, 10, 10, "Yukimi Botamon", "na", "na")),
+            (new Digimon("Nyaromon",Resources.Load<Sprite>("26_Nyaromon"), 1, 10, 10, 10, 10, "YukimiBotamon", "na", "na")),
             (new Digimon("DemiVeemon",Resources.Load<Sprite>("27_Demiveemon"), 1, 10, 10, 10, 10, "Chibomon", "na", "na")),
             (new Digimon("Poromon",Resources.Load<Sprite>("28_Poromon"), 1, 10, 10, 10, 10, "Pururumon", "na", "na")),
             (new Digimon("Upamon",Resources.Load<Sprite>("29_Upamon"), 1, 10, 10, 10, 10, "Tsubumon", "na", "na")),

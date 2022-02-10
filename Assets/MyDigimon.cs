@@ -12,7 +12,7 @@ public class MyDigimon : MonoBehaviour
     //public string Nickname;
     public int strength, defense, speed, brains, hunger;
 
-    public int starterDigi;
+   
 
     // Start is called before the first frame update
     public void Start()
@@ -33,6 +33,8 @@ public class MyDigimon : MonoBehaviour
         {
             if (((MyDigi.Digi == evo.pre1) || (MyDigi.Digi == evo.pre2) || (MyDigi.Digi == evo.pre3)) && (strength >= evo.str) && (defense >= evo.def) && (speed >= evo.spd) && (brains >= evo.brns))
             {
+                var evolution = evo;
+                print("Your " + MyDigi.Digi + " has evolved into " + evolution.Digi);
                 MyDigi = evo;
                 theSR.sprite = MyDigi.DigiSprite;
             }
@@ -40,17 +42,21 @@ public class MyDigimon : MonoBehaviour
     }
         private void Starter()
     {
-                starterDigi = Random.Range(0, 16);
+        var starterDigi = Random.Range(0, 16);
         MyDigi = DigimonBuilder.AllDigi[starterDigi];
         theSR.sprite = MyDigi.DigiSprite;
     }
     public void Eat()
     {
-        //if (hunger >= 1)
-        //{
-            hunger += 1;
-        print("digimon has been fed");
-        //}
+        if (hunger >= 1)
+        {
+            hunger -= 1;
+        print(MyDigi.Digi + " has been fed");
+        }
+        else
+        {
+            print(MyDigi.Digi + " isn't hungry");
+        }
     }
 }
 
